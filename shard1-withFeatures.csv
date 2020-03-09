@@ -1,0 +1,887 @@
+RestaurantName,URL,REWARDS_PROGRAM_FEATURE,Rewards,Rewards Signup,TOAST_GIFT_CARDS_FEATURE,Gift Cards,Find Card,ONLINE_ORDERING_FEATURE,Online Order
+Voodoo Wing Company,https://www.voodoowingco.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Rebellion DC,http://rebelliondc.com/,,,,TOAST_GIFT_CARDS,,,,
+Fire Wings Natomas,https://www.firewings.com/sacramento-ca-95835,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-sacramento/v2/online-order#!/
+Fire Wings Delta Shores,https://www.firewings.com/sacramento-ca-95832,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-delta-shores/v2/online-order#!/
+Fire Wings Berkeley,https://www.firewings.com/berkeley-ca-94704,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-berkeley/v2/online-order#!/
+Comal / Comal Next Door,http://www.comalnextdoor.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/comal/giftcards,,ONLINE_ORDERING,
+VooDoo Wing Co,http://www.voodoowingco.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Farm & Fries,http://www.farmandfries.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+HUMMUS,http://www.hummusbowls.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/47c47b01-68d6-4856-9921-b46193e60140
+Pasta & Co.,http://www.pastaco.com/,,,,,,,,
+Charcoal Venice,https://www.charcoalvenice.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+HaveABURGER,http://www.haveaburger.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/haveaburger/v2/online-order#!/
+Fire Wings & Delilah's by Make Fish,https://www.firewings.com/sacramento-ca-95825,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-howe-ave/v2/online-order#!/
+320 Main,http://www.320mainsealbeach.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+University of Beer,https://www.theuob.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/university-of-beer-davis/giftcards,,ONLINE_ORDERING,
+Poquitos,http://www.vivapoquitos.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Cisco's Restaurant Bakery & Bar,https://www.ciscosaustin.com/,,,,TOAST_GIFT_CARDS,,,,
+altThai,http://www.altThai.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fiddlesticks Bar & Grill,http://fiddlesticksbar-grill.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/fiddlesticks-bar-and-grill/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/fiddlesticks-bar-and-grill/v2/online-order#!/
+Holcombs Classics,http://www.holcombsclassics.com,,,,TOAST_GIFT_CARDS,,,,
+Quicksand Culver City,http://www.quicksand.la,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Lu's Sandwiches,http://www.lussandwiches.com,,,,,,,ONLINE_ORDERING,
+LeBus Bistro,https://www.lebuseastfalls.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fire Wings Rancho Cucamonga,https://www.firewings.com/san-bernardino-ca-92407,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-san-bernardino/v2/online-order#!/
+Musketeers Bar & Grill,http://www.musketeersgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/musketeers-bar-grill-richfield/v2/online-order#!/order
+Colletti's Restaurant,http://collettis.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/collettis-restaurant/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/collettis-restaurant/v2/online-order#!/
+The Corner Restaurant,http://www.thecornerkc.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Roundabout Diner and Lounge,https://roundaboutdiner.com,REWARDS_PROGRAM,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+1764 Public House,https://1764pub.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Lilly Chocolates & Confections,http://www.lhchocolate.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Ovation Bistro & Bar,http://www.ovationbistro.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/ovation-bistro-bar-davenport/giftcards,https://www.toasttab.com/ovation-bistro-bar-davenport/findcard,ONLINE_ORDERING,https://www.toasttab.com/ovation-bistro-bar/v2/online-order#!/
+Napua at Mauna Lani Beach Club,http://www.napuarestaurant.com,,,,TOAST_GIFT_CARDS,,,,
+The Cask Taphouse and Grill,http://www.casktaphouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-cask-taphouse-and-grill/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/the-cask-taphouse-and-grill/v2/online-order#!/
+Camille's Wood Fired Pizza,http://camillespizza.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/camilles-wood-fired-pizza/v2/online-order#!/
+The Cure Kitchen & Bar,http://thecurehb.com/,,,,,,,,
+Breakfast Club,https://www.breakfastclub.us,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Outlaw Saloon,http://www.sundancervresortca.com,,,,,,,,
+Silvio's Restaurant & Pizzeria,http://www.silviosrestaurant.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/silviosrestaurant-pizzeria/v2/online-order#!/
+East Side Pies,https://www.eastsidepies.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/east-side-pies-rosewood/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/east-side-pies-n183/v2/online-order#!/
+Hooley House Sports Pub & Grille,https://www.1funpub.com,REWARDS_PROGRAM,,https://www.toasttab.com/hooley-house-sport-pub-and-grille-mentor/rewardsSignup,TOAST_GIFT_CARDS,https://www.toasttab.com/hooley-house-sport-pub/giftcards,https://www.toasttab.com/hooley-house-sport-pub/findcard,ONLINE_ORDERING,
+Tino's Artisan Pizza Co.,http://www.nojunkpizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Boxcar Betty's,http://www.boxcarbettys.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fire Wings San Mateo,https://www.firewings.com/san-mateo-ca-94401,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-san-mateo/v2/online-order#!/
+Fire Wings Houston,https://www.firewings.com/sacramento-ca-95823,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings/v2/online-order#!/
+Poliseno's Pizzeria,https://polisenosdover.com/,,,,,,,,
+Lawrence Beer Company,https://www.lawrencebeercowest.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+NAYA,https://www.eatnaya.com/,,,,TOAST_GIFT_CARDS,,,,
+Oak on Main,http://www.oakpullman.com,,,,,,,ONLINE_ORDERING,
+Wayne Dabrowski - Test,http://www.inkdrinkinc.com,,,,,,,,
+Boardwalk Pizzeria,http://www.boardwalkpizzeria.com,,,,,,,ONLINE_ORDERING,
+Koehn Bakery,http://www.koehnbakery.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Satchmo's Cajun & BBQ,http://www.satchmosaz.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Chicken Man and Gianellis Pizza,http://www.gianellis.com,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/chickenmangianellis/v2/online-order#!/order
+Two Tides Brewing Company,http://www.TwoTidesBrewing.com,,,,,,,,
+Big Iron Horse Barbecue,https://www.bigironhorse.com/,,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,ONLINE_ORDERING,FAILED TO GET
+Good Life Cafe,http://goodlifecafe.net/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Tap & Bowl,http://www.tapandbowl.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+University of Beer,http://theuob.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/university-of-beer-davis/giftcards,,,
+Miyabi Jr Express,http://www.miyabijrex.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Brothers Pizza,http://brotherspizzapasta.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/brothers-pizza-mc-kinney/v2/online-order#!/order
+S'MAC,http://www.eatsmac.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/s-mac-east-village/giftcards,https://www.toasttab.com/s-mac-east-village/findcard,ONLINE_ORDERING,https://www.toasttab.com/s-mac-east-village/v2/online-order#!/
+Armistice Brewing Company,http://www.armisticebrewing.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Gustazo - Cuban Restaurant & Cafe,http://www.gustazo-cubancafe.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Sub Zero Vodka Bar,http://www.subzerovodkabar.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/sub-zero-vodka-bar/v2/online-order#!/
+Hana Cafe,http://hanacafelajolla.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+7venth Sun Brewing Company,http://www.7venthsun.com,,,,,,,,
+Sam's No.3,http://www.samsno3.com/,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Queenstown Public House,http://www.queenstownpublichouse.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/queenstown-public-house/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/queenstown-public-house/v2/online-order#!/order
+Kathryn's Grille,http://www.kathrynsgrille.com,,,,,,,,
+Il Corso,http://www.ilcorsocv.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Beckon,https://www.beckon-denver.com,,,,,,,,
+Hamburger Stan,http://hamburgerstan.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Truman's KC Pizza Tavern,http://trumanspizza.515sites.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Laury's Restaurant,http://www.laurysrestaurant.com,,,,TOAST_GIFT_CARDS,,,,
+River City Roll,http://www.rivercityroll.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/rivercityroll/giftcards,,,
+Lynch's Irish Tavern,http://www.lynchsirishtavern.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Munch Box,http://www.munchboxlv.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/munch-box-2/v2/online-order#!/
+Pearl Street Warehouse,https://www.pearlstreetwarehouse.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Sartini's Pizzeria,http://Sartinis-Pizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Second Reef Deli,http://www.secondreefdeli.com,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/second-reef-deli/v2/online-order#!/
+Pie Tap Pizza Workshop + Bar,https://pie-tap.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Whisknladle Hospitality,https://www.whisknladle.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/whisknladle-la-jolla/giftcards,,,
+Stuzzi,http://stuzzirichmond.com/,,,,,,,,
+Attman's Potomac Deli,https://attmansdeli.com/cabin-john/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/attmans-new-york-deli/v2/online-order#!/
+MAAK,https://sushiguyco.com/tyler-broadway-ave,,,,TOAST_GIFT_CARDS,,,,
+Bar 88 & Grille,http://www.tauntonbar88.com,,,,TOAST_GIFT_CARDS,,,,
+Pequod's Pizza,http://www.pequodspizza.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/pequods-pizza-chicago/giftcards,,,
+Caps N Taps,http://www.capsntapscamas.com,,,,TOAST_GIFT_CARDS,,,,
+Celadon Thai Kitchen,http://www.celadonthaikitchen.com,,,,,,,ONLINE_ORDERING,
+Hessen Haus,http://www.hessenhaus.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/hessen-haus/v2/online-order#!/
+Beecher's Handmade Cheese,https://beechershandmadecheese.com/locations-landing/,,,,,,,ONLINE_ORDERING,
+Banzo,http://www.banzomadison.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/banzo-sherman-ave/v2/online-order#!/
+Blue Mermaid,https://www.bluemermaid.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Element Seafood,http://www.elementgreatneck.com,,,,TOAST_GIFT_CARDS,,,,
+Campus Cafe,http://www.campuscafe.mn,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fire Wings Manteca,http://www.firewings.com,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,
+Comfort CRAFT Cafe,http://www.ComfortCRAFTcafe.com,,,,TOAST_GIFT_CARDS,,,,
+Afro Deli & Grill,http://www.afrodeli.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Azo's,http://www.toasttab.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Queen City BBQ,http://www.qcityq.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/qcbbq/v2/online-order#!/
+Napa Prime,http://www.napburgerbar.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+MiSo,http://www.misofitfastfresh.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/1bb19533-fb58-4715-9af6-1e97f5fb2a77#!/
+Industry,http://industrytx.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/industry-san-marcos/giftcards_link,,ONLINE_ORDERING,https://www.toasttab.com/industry-san-marcos/v2/online-order#!/
+This Little Pig,https://www.toasttab.com/this-little-pig,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Don Cesar,http://www.doncesarmexicancuisine.com/,,,,,,,,
+MOXIE,http://www.livemoxie.co,,,,TOAST_GIFT_CARDS,,,,
+McKenna's Cafe,https://www.mckennascafe.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Burger George,https://www.toasttab.com/burger-george/v2/online-order,,,,,,,,
+Intrinzik,https://intrinzikvenue.com/,,,,,,,,
+Ido Bar & Grill,https://www.idobar.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+TRADERS POINT CREAMERY,http://traderspointcreamery.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Colada Shop,http://coladashop.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/colada-shop-sterling/giftcards,,ONLINE_ORDERING,
+Johnny Mango World Cafe & Bar,http://www.jmango.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Caturra on Grove,http://www.caturraongrove.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Villaggio Deli & Restaurant,http://www.villaggiodeli.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+The Side Spot Superette,http://www.thesidespot.com,,,,TOAST_GIFT_CARDS,,,,
+The Tortilla Press,http://www.thetortillapress.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Sri Lakshmi Temple Cafeteria,http://www.srilakshmi.org,,,,,,,,
+Beaker & Gray,http://www.beakerandgray.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/beakerandgray/giftcards,,,
+The Shortline/The Firebox,https://www.shortlinesushi.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/theshortline/v2/online-order#!/
+Afro Deli & Grill,https://www.afrodeli.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Sliders Grill & Bar,https://slidersgrillbar.com/,,,,,,,,
+Roadhouse 97,http://www.roadhouse97.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+HOP ALLEY,http://www.hopalleydenver.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/hop-alley/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/hop-alley/v2/online-order#!/
+77 Sport Bar,http://www.77sportbar.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/77-sport-bar/v2/online-order#!/
+The Kitchen Table,http://www.thekitchentablesr.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/thekitchentablesr/v2/online-order#!/order
+Doc's Backyard,http://www.eatdrinkdocs.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+D'Ellies,https://www.dellies.net,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Cedar Gardens,http://www.cedargardenbanquet.com/,,,,,,,,
+Porter Haus,http://www.porterhausgaylord.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Taste of Brazil,https://www.ttobrestaurant.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Whisknladle Hospitality,http://www.parkcommonssd.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,"https://www.toasttab.com/park-commons-sorrento-valley/v2/online-order#!/ "
+Paniniz Cafe & Catering,http://paniniz.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Southwark,http://www.southwarkrestaurant.com,,,,TOAST_GIFT_CARDS,,,,
+Pollyanna Brewing Company,https://pollyannabrewing.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Night Train Pizza,https://www.nighttrainpizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/night-train-pizza/v2/online-order#!/
+Deacon's New South,http://www.deaconsnewsouth.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+The Hill Cafe,https://thehillcafe.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-hill-cafe/giftcards,,,
+RestaurantName,URL,,Rewards,Rewards Signup,,Gift Cards,Find Card,,Online Order
+Beecher's Handmade Cheese,http://www.beechershandmadecheese.com,,,,,,,ONLINE_ORDERING,
+Yard Bar,http://www.yardbar.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Queensboro Bistro,http://www.queensborobistro.com,,,,TOAST_GIFT_CARDS,,,,
+John & Peter's,https://www.johnandpeters.com,,,,TOAST_GIFT_CARDS,,,,
+"""Nine Irish Brothers",http://www.nineirishbrothers.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/4b8316fb-6644-47e7-aee8-c3a0af20b241#!/
+Basilico's Pasta e Vino,http://www.basilicospastavino.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Craft & Racked Wine Bar,http://www.craftandracked.com,REWARDS_PROGRAM,,,,,,,
+T.K.'s American Cafe,http://www.tksamericancafe.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/tk-s-american-cafe/v2/online-order#!/
+Stacked Pickle,https://locations.stackedpickle.com/ll/US/IN/Indianapolis/4705-E-96th-St,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/stacked-pickle/v2/online-order#!/
+Quicksand,https://www.quicksand.la,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Blacksmith's Breads,http://blacksmithsbreads.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/blacksmithsbreads/giftcards,,,
+Sparky's Roadside Barbecue,http://www.BBQ305.com,,,,,,,,
+Burgher Burger 15642,https://burgherburger.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Purple Monkey,https://www.purplemonkeypizza.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-purple-monkey/giftcards,,,
+Rosalies Grill,http://www.rosaliesgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/rosalies-grill-david/v2/online-order#!/
+Detroit Wing Company,http://www.detroitwingco.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/detroit-wing-comapny-taylor/v2/online-order#!/
+fundamental LA (West LA),http://www.fundamental-la.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Bella Pasta,http://www.bellapastaristorante.com/,,,,,,,,
+Blackberry Market,http://www.blackberry.cafe,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/blackberry/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/4df3257d-fec8-45c1-b8ef-077c6ef8f0eb#!/
+O'Brien's Irish Pub,http://www.obrienspubsbrandon.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/obrienspubsbrandon/v2/online-order#!/
+Red Star North,http://www.RedStarBar.us,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Clay's Smokehouse,http://www.clayssmokehouse.com,,,,TOAST_GIFT_CARDS,,,,
+Avanti Food & Beverage #2 - The Regional,http://www.theregionalfood.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Leaning Pear,http://www.leaningpear.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-leaning-pear/giftcards,,,
+Anchor Stone Deck Pizza,http://www.anchorpizzeria.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/anchor-stone-deck-pizza/v2/online-order#!/
+Belotti Bottega,http://belottirb.com/bottega,,,,,https://www.toasttab.com/belottirb/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/belotti-bottega/v2/online-order#!/
+Crossroads Cafe,http://crossroadscafejtree.com/,,,,,,,,
+Southern Style Kitchen & Cocktails,http://southernstylenaples.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fong's Pizza,http://www.fongspizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/fongs-pizza-cedar-rapids/v2/online-order#!/
+Truffles Farmington,http://www.trufflesbakery.com/farmington-ct-restaurant-cafe-deli-bakery.html,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Gino's Burgers & Chicken,http://www.ginostowson.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,http://www.toasttab.com/ginostowson/v2/online-order#!/
+MOUTHFUL EATERY,http://www.mouthfuleatery.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/mouthful-eatery/v2/online-order#!/
+The Dor-Stop Restaurant,https://www.thedorstoprestaurant.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-dor-stop-restaurant/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/the-dor-stop-restaurant/v2/online-order#!/
+Dirty Water Restaurant & Bar,http://www.dirtywatersf.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Black Olive,http://www.theblackolive.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-black-olive/giftcards,,ONLINE_ORDERING,
+Premier Meat Pies,https://premiermeatpies.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Bread Zeppelin Salads,http://www.breadzeppelin.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/bread-zeppelin-salads-irving/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/593fa0e9-7486-48f9-bfda-f368baa307c1#!/
+Lyon Hall,https://www.lyonhallarlington.com/,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Atlas 42,http://www.atlas42.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Sabor de Vida Brazilian Grill,http://www.sabordevida.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Baked NYC,http://www.bakednyc.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Sylvester,http://www.thesylvesterbar.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/thesylvesterbar/giftcards,,,
+Tosco's Pub and Grill,http://www.toscospub.com/home/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/toscos-pub-and-grill/v2/online-order#!/
+I Live for Dessert,http://www.ilivefordessert.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/i-live-for-dessert/v2/online-order#!/order
+Papa Kenos Pizzeria,http://www.papakenos.com/papa-lawrence/88abl8hfan6bipm97hkp2tgcemk7r1,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Gateau Bakery Cafe & Tea Room,https://www.1gateau.com/,,,,TOAST_GIFT_CARDS,,,,
+Avli the Little Greek Kitchen,https://www.toasttab.com/avlithelittlegreekkitchen/v2/online-order#!/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Tedesco's,https://www.tedescosfresh.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Rhein Haus,http://rheinhaustacoma.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Red Lion Pub,http://www.redlionpubmke.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Wicked Pie Pizza,https://wickedpiepizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/wicked-pie-pizza/v2/online-order#!/
+Wally's Deli,https://www.wallysdelifortmyers.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+T's Rockin Roadhouse,http://www.tsrockinroadhouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+American Grind,https://www.americangrindco.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Bluefox Indian Bar and Grill,http://www.bluefoxmn.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Red Star,http://www.redstarbar.us,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Three Lions Pub,http://threelionspub.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Lolo Hawaiian BBQ,http://www.lolohawaiianbbq.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Wing Snob,http://www.thewingsnob.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/adfa9124-1f83-483d-9820-8761adaf50ed#!/
+Uniontown Brewing Co.,https://uniontownbrewing.com,,,,TOAST_GIFT_CARDS,,,,
+CO-OP,https://www.coopramen.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/co-op/giftcards,,,
+J. BLACK'S Feel Good Kitchen & Lounge,http://www.jblacks.com,,,,,,,,
+Hank's,http://www.hanksaustin.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/hanks-austin/v2/online-order#!/
+Nomads Kitchen,http://www.nomads.kitchen,,,,,,,ONLINE_ORDERING,
+Gamlin Whiskey House,https://www.gamlinwhiskeyhouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Fat Lamb,http://www.fatlamblouisville.com,REWARDS_PROGRAM,,,,,,,
+Wister's Barbecue,https://www.wistersbbq.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/smoke-daddys-home-grown-barbecue/v2/online-order#!/
+Elixir Bar & Grill,http://www.elixirbarandgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/elixir-bar-grill/giftcards,,,
+Sherman's Taphouse,http://www.shermanstaphouse.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/shermans-tavern-taps/v2/online-order#!/
+Fry the Coop,http://www.frythecoop.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/fry-the-coop-elmhurst/v2/online-order#!/
+Mansfield Family Restaurant,http://mansfieldfamilyrestaurant.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+"""Ale Station Food",http://www.alestation.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,https://www.toasttab.com/ale-station-food-and-brew/v2/online-order#!/
+Fire Wings Florin Rd. Sacramento,https://www.firewings.com/florin-rd-sacramento-ca-95823,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-south-sacramento-florin/v2/online-order#!/
+Plaza Bistro ‘n Tavern,http://www.pbnt.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Vinaigrette Salad Kitchen,https://vinaigrettesaladkitchen.com/,,,,TOAST_GIFT_CARDS,,,,
+The Barn Bowl & Bistro,http://www.thebarnmv.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/thebarn/giftcards,,ONLINE_ORDERING,
+make pizza+salad,http://www.makeSanDiego.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Mudflats Bar & Grill,http://www.themudflats.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Chanticleer,http://www.chanticleerrestaurant.com,,,,TOAST_GIFT_CARDS,,,,
+Copa Kitchen & Bar,https://www.copakitchenbar.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/copa-kitchen-bar/v2/online-order#!/
+Ron's Gourmet Ice Cream,https://ronsicecream.com/,REWARDS_PROGRAM,,https://www.toasttab.com/rons-gourmet-ice-cream-dedham/rewardsSignup,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Prime Taco,https://www.primetacoct.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/prime-taco/v2/online-order#!/
+101 North Eatery & Bar,https://www.101northeateryandbar.com,,,,TOAST_GIFT_CARDS,,,,
+TC4 & Co.,http://www.tc4.co/,,,,,,,,
+Julep: Southern Table & Whiskey House,http://www.juleprino.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/julepdenver/giftcards,,ONLINE_ORDERING,
+D6 Pizza,http://d6pizza.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/d6pizza/giftcards,,ONLINE_ORDERING,
+Spice Thai,https://www.spicethaiusa.com,,,,,,,ONLINE_ORDERING,
+IBU Public House,http://ibupdx.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Legacy Bar and Grill,http://www.legacygrillandbar.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Merland's Deli & Draft,http://www.merlandsdeli.com/,,,,,,,,
+Pacific Pourhouse,http://www.pacificpourhouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Mercantile at GrayBarns,http://www.graybarns.com/mercantile,,,,TOAST_GIFT_CARDS,,,,
+Denny Bar Company,http://www.dennybarcompany.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Royals,http://www.jonnybz.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Osteria Radici,http://www.osteriaradici.com,,,,TOAST_GIFT_CARDS,,,,
+The Winchester,https://www.winchestergr.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/winchester/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/winchester/v2/online-order#!/order
+Sneha Indian Cuisine,http://www.SnehaIndianCuisine.com,,,,,,,ONLINE_ORDERING,
+Murphy's Law,http://www.murphyslawri.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+All Meats Brazilian Steakhouse,http://www.allmeats.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Kelly's Landing,https://www.kellysatmoosehead.com,,,,TOAST_GIFT_CARDS,,,,
+The Joint,http://www.TheJointMV.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/the-joint-mount-vernon/v2/online-order#!/
+Northern Bell,http://www.northernbellny.com,,,,TOAST_GIFT_CARDS,,,,
+Ballydoyle Irish Pub & Restaurant,https://www.ballydoylepub.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Royal Hilltop,http://www.royalhilltop.com,,,,TOAST_GIFT_CARDS,,,,
+Truant's Tavern,http://truantstavern.com/,REWARDS_PROGRAM,,,,,,,
+Pelons Baja Grill,https://pelonsbajagrill.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Sala Thai Restaurant,http://www.salathaispokane.com,,,,,,,,
+The Flying Egg,http://www.theflyingeggbethlehem.com,,,,TOAST_GIFT_CARDS,,,,
+King's Road Brewing Company,http://www.kingsroadbrewing.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+MAAK,https://themaak.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Papa Kenos Pizzeria,http://www.papakenoswestport.com/ouer3vtu417cncaqu43h1a8ta7buq4,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+GROVE,https://www.groveLWR.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Duetto Pizza and Gelato,http://duettopizza.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/duetto-pizza-and-gelato/v2/online-order#!/
+Pharm Table,http://www.pharmtable.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/pharmtable/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/pharmtable/v2/online-order#!/order
+Olive and Oak,https://www.oliveandoakstl.com/menu,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/olive-and-oak-webster-groves/v2/online-order#!/
+Mellie's New York Deli & Eatery,http://www.MelliesNewYorkDeli.com,,,,,,,ONLINE_ORDERING,
+Bastards American Canteen,http://www.Bastardscanteen.com,REWARDS_PROGRAM,,https://www.toasttab.com/bastards-american-canteen-downey/rewardsSignup,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/bastards-american-canteen-downey/v2/online-order
+The Couch Tomato Cafe,http://www.thecouchtomato.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Mud and Char,http://www.mudandchar.com,,,,TOAST_GIFT_CARDS,,,,
+Kye's,http://www.kyesmontana.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/kyes-montana-ave/giftcards,,ONLINE_ORDERING,
+Izzy's Arcade Bar,http://www.izzysarcadebar.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/izzysarcadebar/v2/online-order#!/
+Stir Cooking School,http://www.stirtolearn.com,,,,,,,,
+Fire Wings Hayward,https://www.firewings.com,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,
+La Fogata Grill,http://lafogatagrill.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+BOIL Seafood House,https://boilseafoodhouse.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/boil-seafood-house/v2/online-order#!/
+The Laundry,https://lunchandbeyond.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/the-french-laundry/v2/online-order#!/
+Better Bagels,http://www.BetterBagels.com,,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,ONLINE_ORDERING,FAILED TO GET
+Krankies,http://www.krankiescoffee.com,,,,TOAST_GIFT_CARDS,,,,
+Wild Thyme Cafe,http://www.wildthymekanab.com,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/wild-thyme-cafewild-thyme-cafe/v2/online-order#!/
+Crema Cafe,http://www.cremacambridge.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Local Pint,http://www.localpint.beer,REWARDS_PROGRAM,,,,,,,
+Brushfire Tacos Y Tapas,http://brushfiretacos.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/fe27d758-4288-48b5-a984-826fc2d1373a#!/
+Fri 2/14 WE ARE BACK!! Hartford Hospital,http://trufflesbakery.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Lampo Neapolitan Pizzeria,http://www.lampopizza.com,,,,TOAST_GIFT_CARDS,,,,
+Drunken Dragon,http://www.drunkendragon.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Pork Belly Farmhouse,http://www.porkbellyfarmhouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/pork-belly/giftcards,,,
+CRAFT Donuts + Coffee,http://www.craftdonutscoffee.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/craft-donuts-coffee/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/41a3191d-f8c8-47a8-a02a-b8418526159b#!/
+Condado Tacos,http://www.condadotacos.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/condado-tacos-downtown-cbus/giftcards,,ONLINE_ORDERING,
+Ernie's Texas Lunch,https://www.ernies-texas-lunch.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Mt. Pleasant Grille's Retro Lunch Menu,https://www.mtpleasantgrille.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/mt-pleasant-grille/giftcards,,ONLINE_ORDERING,
+Brenda's Oakland,http://www.toasttab.com/brenda-s,,,,,,,ONLINE_ORDERING,
+Savin Bar + Kitchen,https://www.savinbarandkitchen.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,"{""imageData"":{""type"":""Image"",""id"":""dataItem-k69yzci6"",""metaData"":{""pageId"":""masterPage"",""isPreset"":false,""schemaVersion"":""1.0"",""isHidden"":false},""title"":""order on toast take out.png"",""uri"":""9d160a_d7576947898640b9aa4a27db4aca2851~mv2.png"",""width"":109,""height"":72,""alt"":"""",""link"":{""type"":""ExternalLink"",""id"":""dataItem-k69z0w8w"",""metaData"":{""pageId"":""masterPage"",""isPreset"":false,""schemaVersion"":""1.0"",""isHidden"":false},""url"":""https://www.toasttab.com/savin-bar-and-kitchen-dorchester-ma/v2/online-order#!/"",""target"":""_blank""},""displayMode"":""fill""},""containerId"":""comp-k69yzchc"",""displayMode"":""fill""}"
+East Side Pies,https://eastsidepies.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/east-side-pies-rosewood/giftcards,,,https://www.toasttab.com/east-side-pies-n183/v2/online-order#!/
+Waka Waka,http://www.wakaatx.com,,,,,,,,
+Nerdvana Frisco,http://nerdvanafrisco.com/spirits/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Trattoria No. 10,http://www.trattoriaten.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/trattoria-no-10/giftcards,,ONLINE_ORDERING,
+Griff's,http://www.griffs35.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+2nd & High,http://www.2andhighbar.com,REWARDS_PROGRAM,,,,,,,
+Bresca,http://www.brescadc.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/bresca-dc/giftcards,,,
+Basshole Brews,http://www.baseholebrews.us,,,,,,,,
+Molly Brannigan's Irish Pub,https://www.mollybrannigans.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Splashers Grill,http://www.splashersgrillkona.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/splashers-grill-kailua-kona/v2/online-order#!/
+Louks Greek Baby Donuts,http://www.babylouks.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/louks-greek-baby-donuts/v2/online-order#!/
+The Rotary,http://www.therotaryeats.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-rotary/giftcards,,ONLINE_ORDERING,
+Shaggy's,https://shaggys.biz,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Pizzeria DeVille,http://pizzeriadeville.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/Pizzeria-Deville/v2/online-order#!/
+Homestead.,http://www.eathomestead.com,,,,,,,,
+Naukabout Beer Co.,http://www.naukabout.com,,,,TOAST_GIFT_CARDS,,,,
+Matt's Smalltown Pizza,https://www.smalltownpizza.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Lantern,http://www.wassaiclanterninn.com,,,,,,,,
+Nacho Mama's,http://www.nachomamasva.com/,,,,,,,,
+Nota Bene Restaurant and Bar,https://www.notabenerva.com,,,,TOAST_GIFT_CARDS,,,,
+Tokio,http://www.mytokio.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Tahini,http://www.tahinistreetfood.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/tahini-clairemont/v2/online-order#!/order
+The Holler,http://www.alocalhangout.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/the-holler/v2/online-order#!/
+Slapbox Pizzicheria,http://www.slapboxpizza.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/slapbox-pizzicheria/v2/online-order#!/
+D'Andrews Bakery & Cafe,http://www.dandrewsbakery.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/d-andrews-bakery-cafe/giftcards,,ONLINE_ORDERING,
+Zapata's Mexican Kitchen,http://www.zapatasgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/zapatas-mexican-kitchen/v2/online-order#!/
+Heirloom Pizza Co,http://heirloompizzapie.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Rudy's Country Store & Bar-B-Q,http://www.rudysbbq.com,,,,,,,ONLINE_ORDERING,
+TLC,http://www.tlcaustin.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Citrus & Salt,http://www.citrusandsaltboston.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Jamba,https://www.jamba.com,,,,,,,,
+Dooby's,http://www.doobys.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Hook & Vine Kitchen and Bar,http://www.hookandvine.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Majordomo,http://www.majordomo.la,,,,,,,,
+Hidden Manna Cafe Express,http://www.hiddenmannacafe.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Chuck's BBQ,https://chucksbbq.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Razza,http://www.razzanj.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/razza/giftcards,,,
+OW Smoke test #07,http://www.scottsseafoodsj.com,,,,TOAST_GIFT_CARDS,,,,
+Procopio's Pizza & Pasta,http://www.procopiosrestaurant.com,,,,TOAST_GIFT_CARDS,,,,
+Little Pub,http://www.littlepub.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Cinderlands Foederhouse,https://www.cinderlands.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/cinderlands-beer-co/giftcards,,,https://www.toasttab.com/cinderlands-warehouse/v2/online-order#!/
+His Place Eatery,https://hisplaceeatery.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Farm Fresh Food Truck,http://ingredientofclayton.com,,,,,,,ONLINE_ORDERING,
+Southfin Southern Poke,https://southfinpoke.com/,,,,TOAST_GIFT_CARDS,,,,
+SPIEDIElicious,http://www.spiedielicious.com,REWARDS_PROGRAM,https://www.toasttab.com/spiedielicious/rewards,,,,,ONLINE_ORDERING,https://www.toasttab.com/spiedielicious/v2/online-order#!/
+Bon Bon Sushi,http://www.bonbonsushi.com,,,,,,,,
+The Shed,https://www.intheshed.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-shed/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/8ed31bf8-751f-40c7-8280-978b7dcf3389#!/
+A Market,http://www.amarketnb.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Little Pub,http://littlepub.com/oldsaybrook/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/little-pub-old-saybrook/v2/online-order#!/
+Taft’s Brewpourium - Cincinnati,http://taftsalehouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Mocha Bleu,http://www.mochableu.com,,,,TOAST_GIFT_CARDS,,,,
+Little Havana Bar & Grill,http://www.littlehavanabarandgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/little-havana-restaurant/v2/online-order#!/
+Souvlaki Fast,http://souvlakifast.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Ninja Ramen,http://www.ninjaramen.com,,,,,,,ONLINE_ORDERING,
+McKenzie Brew House,http://www.mckenziebrewhouse.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/mckenzie-brew-house-devon/v2/online-order#!/
+Newbury Salads PK Eats Hertel,http://www.newburysalads.com,,,,,,,,
+Boss Dog Brewing Co.,http://www.BOSSDOGBREWING.COM,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+GreyStone Coffee Company,http://www.greystonecoffeeco.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/greystone-coffee-company/v2/online-order#!/order
+American Sardine Bar,http://americansardinebar.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/american-sardine-bar/giftcards,,ONLINE_ORDERING,
+East Coast Provisions,https://eastcoastrva.com,,,,TOAST_GIFT_CARDS,,,,
+The Flatts,http://theflatts.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/theflatts/v2/online-order#!/
+Arcuri Eat + Drink,http://www.arcuridc.com/,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+American Smokehouse Stadium,http://www.americansmokehousestadium.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Beecher's Handmade Cheese Test,http://www.beechershandmadecheese.com/,,,,,,,ONLINE_ORDERING,
+Kayndaves,http://www.kayndaves.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Tein Li Chow,http://www.teinlichow.com/about.html,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Fire Wings Loomis,https://www.firewings.com/antelope-ca-95843,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-antelope/v2/online-order#!/
+Poquitos Bothell,http://www.poquitosbothell.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/poquitos-bothell/v2/online-order#!/order
+Chauncey's Family Dining,http://chaunceysfamilydining.com/home/4401126,,,,TOAST_GIFT_CARDS,,,,
+Overtime Sports Bar & Grill,http://www.overtimesbg.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Reel Cajun Seafood Restaurant & Bar,https://www.reelcajunseafood.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Dark Horse Tavern,https://www.darkhorsefdale.com/,,,,,,,,
+The Globe Pub,http://www.theglobepub.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Napa Prime,http://www.napaburgerbar.com,,,,TOAST_GIFT_CARDS,,,,
+Whisknladle Hospitality,http://www.gravityheights.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/whisknladle-la-jolla/giftcards,,ONLINE_ORDERING,
+Easy Pie,http://www.theeasypie.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+FDKY Barbecue,http://www.fdkybbq.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fdky-barbecue/findcard,ONLINE_ORDERING,https://www.toasttab.com/fdky-barbecue/v2/online-order#!/
+Slanted Door,https://slanteddoor-sanramon.com,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/slanted-door-san-ramon/v2/online-order#!/target=%22_blank%22
+Stone & Rail,http://stoneandrail.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/stone-rail/giftcards,,ONLINE_ORDERING,
+LiqrBox,http://www.liqrboxchicago.com,,,,TOAST_GIFT_CARDS,,,,
+The Daily Kitchen & Bar,https://thedailykitchenandbar.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Este Pizzeria,http://www.estepizzaco.com,,,,,,,,
+Mia Za's,http://www.miazas.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/mia-zas-shard-1/v2/online-order#!/
+Mercato Stellina,https://mercatostellina.com/,,,,TOAST_GIFT_CARDS,,,,
+City Squire,http://citysquirealepub.com/,,,,TOAST_GIFT_CARDS,,,,
+Revel Kitchen,https://www.eatrevelkitchen.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Bayou,http://www.dat-bayou.com,,,,TOAST_GIFT_CARDS,,,,
+Salt & Forge Restaurant,http://www.saltandforge.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/salt-forge/v2/online-order#!/
+Caitlin Fox's Test Restaurant,http://gabrielajones.photography,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Heroes West Sports Grill,http://www.heroeswest.net,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Grand Central Bakery,http://www.grandcentralbakery.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Amore Pizzeria Ristorante,https://amorezionsville.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/amore-pizzeria-ristorante/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/amore-pizzeria-ristorante/v2/online-order#!/
+Nectar Urban Cantina,http://www.nectarcantina.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/nectar-urban-cantina/giftcards,,ONLINE_ORDERING,
+TenTen,http://www.tentenaustin.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Bohemeo's,http://www.bohemeos.com,,,,,,,,
+Avanti Food & Beverage #3 - Chow Morso,https://www.chowmorso.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Arigna Irish Pub & Coal Fire Kitchen,http://www.arignairishpub.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Revival Cafe,http://www.revivalcafeandkitchen.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/revival-cafe-alewife/giftcards,,ONLINE_ORDERING,
+American Legion Post 416,http://calegionpost416.org/,,,,,,,,
+Utility Brewing Company,https://www.utilitybrewing.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/utility-brewing-company/v2/online-order#!/order
+RQ Mobile Kitchen,http://www.rqbbq.com,,,,TOAST_GIFT_CARDS,,,,
+La Hacienda Dover,http://www.lahadelaware.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Toast Demo,https://pos.toasttab.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Smoke BBQ,http://www.smokebbqnj.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Souvlaki Fast,http://souvlakifast.com/,REWARDS_PROGRAM,,,,,,,
+Si Señor Modern Mexican,http://www.sisenormodernmex.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/si-senor-modern-mexican/v2/online-order#!/order
+Pots & Pans Jamaican Cuisine,http://potsandpansja.com/,REWARDS_PROGRAM,FAILED TO GET,FAILED TO GET,,FAILED TO GET,FAILED TO GET,ONLINE_ORDERING,FAILED TO GET
+Monarca's Authentic Mexican Cuisine,http://www.monarcasrestaurants.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/monarcas-authentic-mexican-cuisine-bar-and-grill/v2/online-order#!/
+Barrio,http://www.barriochicago.com,,,,,,,ONLINE_ORDERING,
+Rookies 1,https://www.rookiesaz.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/8ad02959-2a27-4c9c-b771-096f5d703bf9#!/
+Taste by Niche,http://www.tastebarstl.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/tastebarstl/giftcards,,,
+Pelons Baja Grill,http://pelonsbajagrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Hillcrest Brewing Company,http://www.Hillcrestbrewingcompany.com,REWARDS_PROGRAM,,https://www.toasttab.com/hillcrest-brewing-company/rewardsSignup,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Boudreaux's Cajun Kitchen,http://go-cajun.com/,REWARDS_PROGRAM,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/rewards,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/rewardsSignup,TOAST_GIFT_CARDS,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/giftcards,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/findcard,ONLINE_ORDERING,
+Whistling Table,http://www.whistlingtable.com,,,,,,,,
+La Mange',http://lamange.com,,,,TOAST_GIFT_CARDS,,,,
+The Lobster Pot,http://www.thelobsterpotrestaurant.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-lobster-pot/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/the-lobster-pot/v2/online-order#!/
+Big Iron Horse Barbecue,http://www.BigIronHorse.com,,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+Mala Project,http://www.malaproject.nyc,,,,TOAST_GIFT_CARDS,,,,
+The Farmstand Market and Cafe,http://www.thefarmstandmarket.com,,,,,,,,
+Ruby Sunshine,http://www.rubysunshine.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Preference Spot,http://www.preferencespot.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Healthy Creations Cafe,https://www.healthycreations.com/homepage,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Curry House,http://www.curryhousebrookline.com,,,,,,,ONLINE_ORDERING,
+Michael Paulus Test Restaurant,http://mikegrowsgreens.com,,,,,,,,
+Fireside Restaurant,http://www.firesidechicago.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Dirty Frank's Hot Dog Palace,http://www.dirtyfranks.com/,,,,TOAST_GIFT_CARDS,,,,
+POKÉ BAR,http://pokebardc.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/poke-bar-arlington/v2/online-order#!/
+Tequila Revolucion,http://www.toasttab.com/tequila,,,,,,,ONLINE_ORDERING,
+Jimmy K's Handcrafted Street Food,http://www.jimmyks.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/jimmy-k-s/v2/online-order
+Local Roots,http://www.localrootsmn.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Golden Spoon,https://cathergroup.com/golden-spoon,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Crane Ramen,https://www.craneramen904.com/,,,,TOAST_GIFT_CARDS,,,,
+Death by Taco,https://www.deathbytaco.net,,,,,,,,
+Petanque Wine Club & Bar,https://www.petanquepb.com/the-wine-club.html,,,,,,,ONLINE_ORDERING,
+Thirty's Craft Pizza & Beers,http://www.thirtyspizza.com,,,,,,,,
+Nawa,https://www.nawa.live,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/nawa/giftcards,,,
+Mount Carmel Bobe's Pizza,http://www.bobespizza.net/mt-carmel-menu/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/bobes-pizza-mt-carmel/v2/online-order#!/
+Contigo Fareground Archived,https://faregroundaustin.com/vendors/concept-2,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Leo's Place Diner,http://www.leosplacediner.net,,,,,,,ONLINE_ORDERING,
+Black Sheep,http://www.blaaacksheep.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Straw Hat Pizza,https://www.strawhatpizza.com,,,,,,,ONLINE_ORDERING,
+Sardella,http://www.sardellastl.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/sardella/giftcards,,,
+Uncle,http://www.uncleramen.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Samantha's of Bandera,http://www.samanthasofbandera.com,REWARDS_PROGRAM,,,,,,,
+Ruby Slipper Cafe,https://www.therubyslippercafe.net/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Fletcher's Pub,http://www.fletcherspub.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/fletchers_pub_texas_corners/v2/online-order#!/
+Palm Palace Restaurant,http://www.palmpalace.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/palmpalace/v2/online-order#!/
+Stacked Pickle,https://stackedpickle.com/,,,,,,,ONLINE_ORDERING,
+Big Bats Cafe,http://www.bigbats.com/,,,,TOAST_GIFT_CARDS,,,,
+Chopstix,http://www.chopstix-tyler.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Polo Bar and Grill,http://www.polowestgolf.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Thee Manor," http://www.TheeManor.com",,,,,,,,
+Zin Gastro Pub,http://www.zingastropub.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Melisse,http://citrinandmelisse.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/citrinandmelisse/giftcards,,ONLINE_ORDERING,
+Harpoon Larry's Fish House & Oyster Bar,http://www.harpoonlarrys.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/harpoon-larrys-fish-house-oyster-bar/giftcards,https://www.toasttab.com/harpoon-larrys-fish-house-oyster-bar/findcard,,
+Bigham Tavern,http://www.bighamtavern.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/bigham-tavern/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/bigham-tavern/v2/online-order#!/
+Shiloh's,http://www.shilohs-la.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/shilos-steakhouse/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/shilos-steakhouse/v2/online-order#!/
+Mala Project,http://malaproject.nyc,,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+Bandito Latin Kitchen & Cantina,https://banditolv.com/,REWARDS_PROGRAM,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+The Gingham Cafe,http://ginghamcafe.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Xi'an Famous Foods,http://www.xianfoods.com,REWARDS_PROGRAM,,,,,,,
+Charga,http://www.chargagrill.com,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/charga/v2/online-order#!/
+Something Different Grill,http://www.eatbowls.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+China West Express,http://www.chinawestexpress.com,,,,,,,,
+The Hard Shell,https://thehardshell.com/bellgrade/,,,,TOAST_GIFT_CARDS,,,,
+Pizza Chalet and Johnnies Broasted Chicken,http://thepizzachalet.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Southside Spirit House,http://southsidesf.com,,,,TOAST_GIFT_CARDS,,,,
+Plain Kate's Riverside Saloon and All Ways Inn,http://toasttab.com/plain-kates-riverside-saloon,REWARDS_PROGRAM,,,,,,,https://www.toasttab.com/plain-kates-riverside-saloon/v2/online-order#!/
+Jefe's Taco Shop,http://www.jefestacoshop.com,REWARDS_PROGRAM,,,,,,,
+Queenstown Bistro,https://www.queenstownbistro.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Wilbo,http://wilboburgers.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Gyro on 27th,http://milwaukeegyro27.mobile-webview.com/,,,,,,,,
+Sea Casa,http://theseacasa.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/seacasa/v2/online-order#!/
+Chloe,http://www.restaurantchloe.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/restaurantchloe/giftcards,,ONLINE_ORDERING,
+Grayton Road Tavern,http://www.graytonroadtavern.com,REWARDS_PROGRAM,https://www.toasttab.com/grayton-road-tavern/rewards,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/grayton-road-tavern/v2/online-order#!/order/feature
+Esther's Authentic Mexican Food,https://my.yola.com/,,,,,,,,
+G&G Restaurant,http://www.ggrestaurant.com,,,,TOAST_GIFT_CARDS,,,,
+Castrillos Pizza of Inglewood,http://www.castrillos.com,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/locations/c1aeb1ec-f309-46a4-bfa2-9efefd38baba#!/
+McVey's Restaurant & Bar,http://www.mcveysrestaurant.com,,,,TOAST_GIFT_CARDS,,,,
+1845 Taphouse,http://www.1845taphouse.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/1845-taphouse/giftcards,https://www.toasttab.com/1845-taphouse/findcard,ONLINE_ORDERING,
+The Chow Bros.,http://www.thechowbrothers.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Little Havana Restaurant,http://www.littlehavanarestaurant.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/little-havana-restaurant/v2/online-order#!/
+Sylver Spoon,http://www.sylverspoon.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/sylver-spoon/v2/online-order#!/order
+Revolution,http://www.revolutionatlanta.com,,,,TOAST_GIFT_CARDS,,,,https://www.toasttab.com/revolution-coffee-works-truck/v2/online-order#!/
+Deke's Bagels,http://www.dekesbagels.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,"{""imageData"":{""type"":""Image"",""id"":""dataItem-il0rili3"",""metaData"":{""pageId"":""a4d4d"",""isPreset"":false,""schemaVersion"":""2.0"",""isHidden"":false},""title"":"""",""uri"":""6a6346_d1ad97f9636743ae8e65511c288ff225~mv2_d_5184_3456_s_4_2.jpg"",""description"":"""",""width"":5184,""height"":3456,""alt"":""dirt bomb desert"",""crop"":{""x"":1480,""y"":0,""width"":3424,""height"":3456},""link"":{""type"":""ExternalLink"",""id"":""dataItem-j87sm7q4"",""metaData"":{""pageId"":""a4d4d"",""isPreset"":false,""schemaVersion"":""1.0"",""isHidden"":false},""url"":""https://www.toasttab.com/dekes-bagels/v2/online-order#!/order"",""target"":""_blank""},""displayMode"":""fill""},""containerId"":""comp-il0rili2"",""displayMode"":""fill""}"
+Blackberry Market,https://blackberry.cafe,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/blackberry/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/4df3257d-fec8-45c1-b8ef-077c6ef8f0eb#!/
+Red 88 Noodle Bar,https://Red88noodlebar.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,https://red88noodlebar.com/#https://www.toasttab.com/red-88-noodle-bar/v2/online-order#!/
+Angelina Brewing Company,http://www.angelinabrewingco.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/angelina-brewing-company/giftcards,,ONLINE_ORDERING,
+Seoul BBQ & Sushi,http://www.seoulphx.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Ricardo's Kitchen and Bar,http://chefricardo.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Prime Pizza,http://www.primepizzacompany.com,REWARDS_PROGRAM,,,,,,,
+Liv's Oyster Bar,http://www.livsoysterbar.com,REWARDS_PROGRAM,,https://www.toasttab.com/livs-oyster-bar/rewardsSignup,TOAST_GIFT_CARDS,https://www.toasttab.com/livs-oyster-bar/giftcards,,,
+Springbrook Golf and Grill," http://www.springbrook.golf",,,,,,,,
+Diced,http://www.dicedfood.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+BOMBA Tacos & Rum,http://bombatacos.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fire Wings Fair Oaks,https://www.firewings.com/fair-oaks-ca-95628,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-sunrise/v2/online-order#!/
+FIG & OLIVE,https://www.figandolive.com/location/fig-and-olive-nyc-fifth-avenue/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Viand,http://www.theviand.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/the-viand/v2/online-order#!/
+Breakers Topinabee,http://www.breakerstopinabee.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/breakers-topinabee/giftcards,https://www.toasttab.com/breakers-topinabee/findcard,ONLINE_ORDERING,
+Five Star Dive Bar,http://www.5SDB.com,,,,,,,,
+8th & English,https://www.8thandenglish.com,,,,TOAST_GIFT_CARDS,,,,
+Trestle on Tenth,http://www.trestleontenth.com,,,,,,,,
+Catania,http://www.cataniasd.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/catania-la-jolla/giftcards,,ONLINE_ORDERING,
+Johnny's Pizza,http://www.johnnyspizzacary.com,,,,TOAST_GIFT_CARDS,,,,
+Kingston Kitchen,http://www.thekingstonkitchen.com,,,,,,,ONLINE_ORDERING,
+St. Stephen's Green,http://www.ststephensgreen.pub/,,,,,,,,
+Rockit Char Grill,http://rockitchargrill.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/rockit-char-grill/v2/online-order#!/
+The Chophouse on Bankhead,http://www.chophouseonbankhead.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/thechophouseonbankhead/giftcards,,ONLINE_ORDERING,
+Alfalfa Restaurant,http://www.AlfalfaRestaurant.com,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/alfalfa-restaurant-lexington/v2/online-order#!/
+County Grill,http://www.countygrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/county-grill-yorktown/giftcards,https://www.toasttab.com/county-grill-yorktown/findcard,,
+La Tasca,http://latascausa.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Wicked Greenz,https://www.wickedgreenz.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/08b634ed-abc6-4412-b725-1c4c0d2c428a#!/
+Windy City Pizza and Pub,http://www.windycitypizzabreck.com/home.html,,,,,,,ONLINE_ORDERING,
+Bitters Bar & Food,http://www.bittersbar.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+DIGS on CANAL,http://www.DigsOnCanal.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Impellizzeri's Pizza,http://www.impellizzeris.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+A Test Jamba,https://www.jamba.com/,,,,,,,,
+Meta Asian Kitchen,https://www.metaasiankitchen.com/,,,,TOAST_GIFT_CARDS,,,,
+The Queensboro,http://www.thequeensboro.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-queensboro/giftcards,,,
+Woodside Delicatessen,http://www.woodsidedeli.net,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Jaffa,http://www.jaffa.la,,,,TOAST_GIFT_CARDS,,,,
+Veggie Heaven,http://www.veggieheavenaustin.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/veggie-heaven/giftcards,,ONLINE_ORDERING,
+Hank's Honky Tonk,https://hankshonkytonk.squarespace.com/config/?frameUrl=%2Fhome,,,,TOAST_GIFT_CARDS,,,,
+Prequel,http://www.prequelrestaurant.com,,,,,,,,
+Better Bagels," http://www.BetterBagels.com",,,,,,,,https://www.toasttab.com/better-bagels/v2/online-order#!/
+Ignite Gaming - Chicago,http://www.ignitegaming.com,,,,,,,,
+Romancing the Bean,http://www.romancingthebean.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Uptown 596,http://www.uptown596montclair.com,,,,,,,ONLINE_ORDERING,
+Brokerage Brewing Company,http://www.brokeragebrewing.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Cubs Q,http://cubsq.com/,REWARDS_PROGRAM,,,,,,,
+Juniors' Deli,http://www.juniors-deli.com,,,,TOAST_GIFT_CARDS,,,,https://www.toasttab.com/juniors-deli-dacula/v2/online-order#!/
+812 Pizza Company,http://www.812pizzaandstuff.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/812-pizza-company/v2/online-order
+Front Page Deli,http://www.frontpagedeli.com,,,,,,,,
+Hancock Fried Chicken,http://www.hancockgr.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/hancock/giftcards,,ONLINE_ORDERING,
+Walt's Flavor Crisp Chicken,http://www.waltschickende.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,http://www.toasttab.com/walts-flavor-crisp-chicken/v2/online-order#!/
+Lu's Sandwiches,http://www.lusandwiches.com,,,,,,,,
+MOJO Old City BBQ,http://www.mojobbq.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,"{""onclick"":{""action"":""redirect-to-url"",""popup_id"":0,""url"":""https:\/\/www.toasttab.com\/locations\/bceddeb2-74dd-4992-bb60-ebcd831861f8#!\/"",""target"":""_blank"",""cookie_name"":""""}}"
+Brooklyn Pizza Market,http://www.brooklynpizzamarket.com,,,,,,,ONLINE_ORDERING,
+Theodore Rex,http://trexhouston.com,,,,,,,,
+Mariscos El Charco,http://www.mariscoselcharco.com,,,,,,,ONLINE_ORDERING,
+CRAFT Donuts + Coffee,https://www.craftdonutscoffee.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/craft-donuts-coffee/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/41a3191d-f8c8-47a8-a02a-b8418526159b#!/
+The Snug,http://www.thesnugsf.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-snug-san-francisco/giftcards,,,
+Meet The Goat,http://www.pinecuisine.com,,,,,,,,
+The Circuit,https://www.thecircuitarcadebar.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Iron Pig Alehouse,http://www.ironpigalehouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fadó Irish Pub,https://fadoirishpub.com/annapolis/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+PREROGATIvE Kitchen,http://www.prerogativekitchen.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/prerogative-kitchen/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/prerogative-kitchen/v2/online-order#!/order
+Casa Tequila Bar & Grill,https://www.casatequilarestaurant.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+University of Beer,https://theuob.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/university-of-beer-davis/giftcards,,ONLINE_ORDERING,
+Gourmet Prep,https://www.gourmetprepkitchen.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/gourmet-prep/v2/online-order#!/
+Orlando Meats,https://orlandomeats.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/orlando-meats/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/orlando-meats/v2/online-order
+BuenoMalo,http://www.buenomalo.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/buenomalo/v2/online-order#!/
+Stoney's Uptown Joint,http://stoneysuptown.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+RB Sushi,http://www.rbsushi.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Finistere,http://www.restaurantfinistere.com,,,,TOAST_GIFT_CARDS,https://toasttab.com/finistere-port-townsend/giftcards,,,
+Lawrence Beer Company,http://www.lawrencebeerco.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Pura Vida,http://www.puravidamiami.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Hickory & Oak,http://www.hickoryandoakbg.com,,,,TOAST_GIFT_CARDS,,,,
+Brick City Southern Kitchen,http://www.brickcitybbq.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,"{""onclick"":{""action"":""redirect-to-url"",""popup_id"":0,""url"":""https:\/\/www.toasttab.com\/locations\/bceddeb2-74dd-4992-bb60-ebcd831861f8#!\/"",""target"":""_blank"",""cookie_name"":""""}}"
+Burger Bar & Tap,http://www.burgerbarandtap.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Dizzy Birds Rotisserie,http://www.dizzybirdsrotisserie.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Bandit Taco,http://www.Bandittacodc.com,REWARDS_PROGRAM,,,,,,,
+Ohana Kitchen,http://www.ohana.kitchen,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Belotti Ristorante e Bottega,http://belottirb.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/belottirb/giftcards,,,https://www.toasttab.com/belotti-bottega/v2/online-order#!/
+Michael's Genuine Food & Drink,http://www.michaelsgenuine.com,,,,,,,,
+Schat's Bakeries & Café,http://www.schats.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Vida Verde,http://www.vidaverdeny.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Kevin O'Bryan's Irish Pub,http://www.kevinobryans.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Cheeburger Cheeburger,http://www.cheeburger.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Legends Sports Bar & Grill,http://legendssportsbargrill.com,REWARDS_PROGRAM,https://www.toasttab.com/legends-sports-bar-grill/rewards,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/legends-sports-bar-grill/v2/online-order#!/order
+The Diplomat,https://www.thediplomatmke.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/diplomat/giftcards,,,
+The Hard Shell,https://thehardshell.com/downtown/,,,,TOAST_GIFT_CARDS,,,,
+Zeeland Street,http://zeelandstreet.squarespace.com/,,,,TOAST_GIFT_CARDS,,,,
+John T's BBQ,http://www.johntbbq.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Homestead Kitchen & Cocktails,http://www.kitchenandcocktails.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Taco Tuyo,http://tacotuyo.com,,,,,,,,
+Donkey Taqueria,https://www.donkeygr.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/donkey-taqueria/giftcards,,ONLINE_ORDERING," https://www.toasttab.com/donkey-taqueria/v2/online-order#!/"
+Gambino's Pizza,https://www.gambinospizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Bennett's Pure Food Bistro,http://www.bennettsbistro.com/,,,,,,,ONLINE_ORDERING,
+Carmo Restaurant & Bar,http://CafeCarmo.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/carmo/giftcards,,,
+Sunset Room Cafe,https://www.sunsetroomparkcity.com/,,,,,,,ONLINE_ORDERING,
+Balance Patch,http://www.balancepatch.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Ingredient of Clayton,https://ingredientofclayton.com,,,,,,,ONLINE_ORDERING,
+Rice & Bones,https://www.riceandbones.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/rice-bones/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/rice-bones/v2/online-order#!/order
+Triple Beam Pizza - Highland Park,https://www.triplebeampizza.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/triple-beam-pizzeria-la/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/triple-beam-pizzeria-la/v2/online-order#!/order
+Biju's Little Curry Shop,http://www.littlecurryshop.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+InWave,http://www.inwave.org,REWARDS_PROGRAM,https://www.toasttab.com/inwave/rewards,,TOAST_GIFT_CARDS,https://www.toasttab.com/inwave/giftcards,,,https://www.toasttab.com/inwave/v2/online-order#!/order
+"""CORNER grill",http://www.thecornerferndale.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,"[{""event"":""click"",""action"":""simplelink"",""target"":""_self"",""url"":""https:\/\/www.toasttab.com\/corner-grill-bar-%2B-gameroom\/v2\/online-order#!\/"",""delay"":""""}]"
+Finley's Tap House,http://finleystaphouse.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Larrupin Cafe,http://www.thelarrupin.com/,,,,TOAST_GIFT_CARDS,,,,
+FIG & OLIVE,http://www.figandolive.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Rene's Torchy's Tacos,https://torchystacos.com,,,,,,,,
+Fong's Pizza,https://fongspizza.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/fongs-pizza-cedar-rapids/v2/online-order#!/
+7 Locks Brewing,http://www.7locksbrewing.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Le Plonc,http://www.leplonc.com,,,,,,,,
+J Coco Restaurant,http://jcocoomaha.com,,,,TOAST_GIFT_CARDS,,,,
+Hydraulic Hearth,https://hydraulichearth.com/,,,,TOAST_GIFT_CARDS,http://toasttab.com/hydraulic-hearth/giftcards,,,
+Drifters Grill,http://www.driftersmarina.com,REWARDS_PROGRAM,,,,,,,
+Swig,http://www.SwigRestaurant.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/swig/giftcards,,ONLINE_ORDERING,
+Hilligans Sports Bar,http://www.hilligans.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/hilligans-sports-bar-bowling-green/v2/online-order#!/
+Greene Square,http://greenesquarerestaurant.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Great Bagel & Bakery,http://www.eatgreatbagel.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/6f6d401a-8f3e-4176-9a7f-65a0eecad2bf
+Avanti Food & Beverage,http://avantifandb.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Pies 'n' Thighs,http://www.piesnthighs.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/pies-n-thighs/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/pies-n-thighs/v2/online-order#!/
+Heart & Soul Cafe,http://www.heartandsoul.cafe,,,,,,,ONLINE_ORDERING,
+Frankie's Pizza,http://frankiespizzaeg.com/,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Olympic Cafe,http://www.olympiccafesd.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+PurePoke,http://www.purepoketx.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Fuku,http://www.eatfuku.com,,,,,,,,
+Vinni's Pizza & Pasta,https://vinnispizza-pasta.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/vinnispizza-pasta/v2/online-order#!/
+Hop River Brewing Company,http://www.hopriverbrewing.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Noona's,https://www.noonaspizza.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/noonas/v2/online-order#!/
+Anita's Kitchen,https://anitaskitchen.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/aktakeaway/v2/online-order#!/
+Salty Fig Kitchen & Pantry,http://www.saltyfig.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Stilt House,http://www.stilthousegastrobar.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Southside Pizza,http://www.southsidepizzapie.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/southsidepizzapie/v2/online-order#!/
+BoxCar Betty's,http://www.boxcarbetty.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+North Of Chicago Pizza,http://www.northofchicagopizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/north-of-chicago-pizza/v2/online-order#!/
+Fort 88 Smokehouse,http://www.fort88smokehouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/the-rustic/v2/online-order
+The Hidden Pig,https://www.thehiddenpighaverhill.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+EVOS Pinecrest,http://evos.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/b79fd922-17e7-4ded-b8b4-0279054b0d07#!/
+The Dive Steam Kettle Cooking,https://www.divesteamkettlecooking.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/the-dive-skc/v2/online-order#!/
+Tortilla Press Cantina,http://tortillapresscantina.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Yo Momma's Frozen Yogurt,https://www.yomommasfrozenyogurt.com,REWARDS_PROGRAM,,,,,,,
+Bar Helix,https://www.insidethehelix.com,,,,,,,,
+West Coast Provisions,https://westcoastrva.com,,,,TOAST_GIFT_CARDS,,,,
+Greyhound Tavern,http://greyhoundtavernbridgewater.com/,,,,,,,,
+Paz Cantina Taqueria y Cantina,http://www.pazcantina.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Kuma's Corner,https://kumascorner.com/location/kumas-west-loop/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/kumas-corner-the-original/giftcards,,,
+Hooked JC,https://hookedjc.com/,,FAILED TO GET,FAILED TO GET,,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+Somtum Modern Thai Cuisine,http://www.somtummondernthaicuisine.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Condado Tacos,http://www.condadotacos.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/condado-tacos-downtown-cbus/giftcards,,ONLINE_ORDERING,
+Taco Lingo,https://tacolingo.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/taco-lingo-uptown/v2/online-order#!/
+Krabby's Seafood Joint,https://www.krabbys.com/,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/locations/abb28389-8cd5-48cb-9ccb-6bc9a98e08be#!/
+Union Common,http://www.unioncommon.com,,,,TOAST_GIFT_CARDS,,,,
+Firecakes,http://www.firecakesdonuts.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/firecakes-lincoln-park/giftcards,https://www.toasttab.com/firecakes-lincoln-park/findcard,ONLINE_ORDERING,https://www.toasttab.com/firecakes-wells-street-market/v2/online-order#!/
+Enzo's Pizza and Grill,http://enzospizzaandgrill.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Chalawan,http://www.thechalawan.com/,,,,,,,ONLINE_ORDERING,
+Adda Lounge & Restaurant,http://www.addafood.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+CRAFT Donuts + Coffee,https://www.craftdonutscoffee.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/craft-donuts-coffee/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/41a3191d-f8c8-47a8-a02a-b8418526159b#!/
+Pastaria,http://www.pastariastl.com,,,,TOAST_GIFT_CARDS,,,,
+French Gourmet Bistro,http://frenchgourmetbistro.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+M Restaurant at the Morris House Hotel,http://www.mrestaurantphilly.com,,,,TOAST_GIFT_CARDS,,,,
+Call,https://www.beckon-call.com/,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+XXX-Cookiegazm,https://www.cookiegazm.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Hooley House Sports Pub & Grille,https://www.1funpub.com/,REWARDS_PROGRAM,,https://www.toasttab.com/hooley-house-sport-pub-and-grille-mentor/rewardsSignup,TOAST_GIFT_CARDS,https://www.toasttab.com/hooley-house-sport-pub/giftcards,https://www.toasttab.com/hooley-house-sport-pub/findcard,ONLINE_ORDERING,
+Bazati,https://www.bazatiatl.com,,,,TOAST_GIFT_CARDS,,,,
+MAAK,https://sushiguyco.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Kellner International Bar and Grill,http://www.kellnerint.com,,,,,,,,
+Bouldin Creek Cafe,http://bouldincreekcafe.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/bouldin-creek-cafe/giftcards,,ONLINE_ORDERING,
+House of Wings,http://www.houseofwingmiami.com,,,,,,,ONLINE_ORDERING,
+Jamba,https://www.jambajuice.com/,,,,,,,,
+Sam's No.3,https://samsno3.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Union Street Tavern,http://www.UnionStreetTavern.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/USTavern/v2/online-order
+Craig Mazz's Pizza & Italian Cuisine,http://www.Craigmazzspizza.com,,,,TOAST_GIFT_CARDS,,,,
+Back Yard Burgers,https://www.backyardburgers.com/locations/baton-rouge-la,,,,,,,,
+Cioffi's Italian Restaurant & Pizzeria,http://www.cioffisfood.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Spiteful Brewing,http://www.spitefulbrewing.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+McArthur's Systems,http://www.mcarthurs.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Mola Mola Poke Restaurant,http://www.molamolapoke.com,,,,,,,ONLINE_ORDERING,
+FIG & OLIVE,http://www.figandolive.com/restaurants-and-menus/ny-westchester,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Next of Kin,http://www.nextofkinevanston.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Giardino Neighborhood Cucina,http://www.giardinosd.com,REWARDS_PROGRAM,,,,,,,
+Divine12 Cafe,http://www.divine12cafe.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Switchyard Brewing Company,http://www.switchyardbrewing.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+OC,http://www.organiccornerny.com,,,,TOAST_GIFT_CARDS,,,,
+Brooklyn Pizza Authority,http://www.bkpizzaauthority.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+La Casita Pupuseria & Cocina C.A.,http://www.lacasitapupusas.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Wayside Market,http://www.waysidemarket.com,,,,,,,ONLINE_ORDERING,
+Habit Doughnut Dispensary & Carbon Cafe & Bar,http://www.habitdoughnuts.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Pancake House,http://www.pancakehousecolumbus.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Pressroom,http://www.eatatpressroom.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/pressroom/giftcards,,ONLINE_ORDERING,
+Exodus Bagels,http://www.exodusbagels.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/exodus-bagels-roslindale/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/exodus-bagels/v2/online-order#!/
+Thee Manor,http://www.TheeManor.com,,,,,,,,
+Lolo Hawaiian BBQ,http://www.lolobbq.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Boudreaux's Cajun Kitchen,http://go-cajun.com,,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/rewards,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/rewardsSignup,,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/giftcards,https://www.toasttab.com/boudreauxs-cajun-kitchen-fuqua/findcard,,
+The Late Bloomer,http://latebloomerchicago.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Bavarian Bakery and Deli,http://www.yourfavoritebakery.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/bavarian-bakery-and-deli/v2/online-order#!/order
+Whidbey Doughnuts,http://www.whidbeydoughnuts.com,REWARDS_PROGRAM,https://www.toasttab.com/whidbey-doughnuts/rewards,https://www.toasttab.com/whidbey-doughnuts/rewardsSignup,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/whidbey-doughnuts/v2/online-order#!/
+Dos Toros,https://www.dostoros.com/,,,,TOAST_GIFT_CARDS,,,,
+The Bread Box,http://www.breadboxak.com,REWARDS_PROGRAM,,,,,,,
+Hops n Drops,http://hopsndrops.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/ff7003e2-1f4d-4714-9b00-c5b8eda9a5b9#!/
+The Juicy Crab,https://www.thejuicycrab.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Izzy's Taqueria,http://www.izzystaqueria.com,,,,,,,ONLINE_ORDERING,
+Mike's Restaurant,http://www.mikesfairhaven.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+"""Coach's Bar & Grill Stevensville",http://www.coachsbarngrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/coachs-bar-grill/v2/online-order#!/
+Club Groove,http://www.ubgroovenyc.com,,,,,,,,
+FIG & OLIVE,http://www.figandolive.com/restaurants-and-menus/houston,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Brew Kettle,http://thebrewkettle.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Jack's Bar Steakhouse,http://jacksnewhaven.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fire Wings Fairfield,https://www.firewings.com/fairfield-ca-94533,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/firewings-msa2-2-fairfield/v2/online-order#!/
+Kuma's Corner,http://www.KumasCorner.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/kumas-corner-the-original/giftcards,,ONLINE_ORDERING,
+BomboBar,http://www.bombobar.com/,,,,,,,ONLINE_ORDERING,
+The Ginger Root Restaurant & Bar,http://www.gingerrootasiankitchen.com,,,,,,,ONLINE_ORDERING,
+Taino's Bakery,http://www.tainosbakery.com,REWARDS_PROGRAM,https://www.toasttab.com/tainosbakery/rewards,https://www.toasttab.com/tainosbakery/rewardsSignup,,,,ONLINE_ORDERING,https://www.toasttab.com/locations/d4ed464b-8d88-4092-ad95-91921c9e5d4b#!/
+Repeat Returns Test Restaurant,https://repeatreturns.com,,,,,,,,
+Drew King's Test Restaurant,http://www.drewkings.com,,,,,,,ONLINE_ORDERING,
+Blue Moon Waterfront Grille,http://www.bluemoongrille.com,,,,TOAST_GIFT_CARDS,,,,
+Platform T,https://www.platformt.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+POKÉ BAR,http://www.pokebardc.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/poke-bar-arlington/v2/online-order#!/
+Field & Vine,https://www.fieldandvinesomerville.com,,,,,,,ONLINE_ORDERING,
+Spin Pollo,http://www.spinpollo.com,,,,,,,ONLINE_ORDERING,
+Sopraffina Marketcaffe,https://www.sopraffina.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/sopraffina-marketcaffe-adams/giftcards,https://www.toasttab.com/sopraffina-marketcaffe-adams/findcard,ONLINE_ORDERING,https://www.toasttab.com/locations/d91f9544-2e44-429d-b93a-4516b1c13494#!/
+Local Taco,https://www.localtaco.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Four Cafe,http://www.fourcafe.net,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/four-cafe/giftcards,,ONLINE_ORDERING,
+FG,http://www.michiganandtrumbullpizza.com,,,,TOAST_GIFT_CARDS,,,,
+Mr.Chens,http://www.mrchens.com,,,,,,,ONLINE_ORDERING,
+Quintana's Speakeasy,https://qbds.net/speakeasy/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/quintanas-speakeasy/giftcards,,,
+Gambino's Pizza,https://www.gambinospizza.com/stores/ks/andover.html,,,,,,,ONLINE_ORDERING,
+Maya Taqueria,http://www.mayataqueria.com,REWARDS_PROGRAM,,,,,,,
+Violet,https://www.violetseattle.com/,,,,TOAST_GIFT_CARDS,,,,
+Noshville Delicatessen,http://www.noshville.com,,,,TOAST_GIFT_CARDS,,,,
+Brushfire Tacos Y Tapas,http://www.brushfiretacos.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/fe27d758-4288-48b5-a984-826fc2d1373a#!/
+Lehmans Farmhouse,https://www.lehmansfarmhouse.com,,,,,,,,
+Bagelsaurus,http://www.bagelsaurus.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/bagelsaurus/giftcards,,ONLINE_ORDERING,
+Casa Amore,https://www.CasaAmore.net,,,,TOAST_GIFT_CARDS,,,,
+Jimmies - Test,http://www.josephinepratt.com,,,,,,,,
+Vitaly Caffe,http://www.vitaly.net/home,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Mighty Fine Burgers Fries and Shakes,https://mightyfineburgers.com/,,,,,,,ONLINE_ORDERING,
+Slice420,http://www.slice420.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/slice-420/v2/online-order#!/
+Toast,http://www.toastmilwaukee.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/toast-mke/giftcards,https://www.toasttab.com/toast-mke/findcard,ONLINE_ORDERING,
+Sawmill Grill,http://thesawmillgrill.com/,,,,TOAST_GIFT_CARDS,,,,
+Swan Street Diner,http://www.swanstreetdiner.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/swan-street-diner/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/swan-street-diner/v2/online-order#!/
+Higher Grounds,https://www.highergrounds.me,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Gelato Boy,http://gelatoboy.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Manning's Steaks and Spirits,https://www.manningsteaks.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/mannings-steaks-and-spirits/giftcards,,ONLINE_ORDERING,
+Sweet Leaf - Glebe,http://www.sweetleafcafe.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/42632668-0b4b-4a80-9339-1c55e8bca4c3#!/
+The Castle: A Board Game Cafe,http://thecastlebeverly.com/,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/thecastlebev/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/thecastlebev/v2/online-order#!/order
+Ebisu Restaurant,http://www.ebisusushi.com,,,,,,,,
+Larkin Filling Station,https://larkinsquare.com/things-to-do/filling-station/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Big Mill's Cheesesteaks,https://bigmills.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/big-mills-cheesesteaks/v2/online-order#!/
+Dairy Dream,http://www.dairydreamweb.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Galaxy Taco,http://www.galaxytaco.com/,,,,TOAST_GIFT_CARDS,,,,
+D'Allesandro's Pizza,http://www.dalspizza.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/d-allesandros-pizza/v2/online-order#!/
+Costa Manhattan Beach,http://www.costa-mb.com,,,,TOAST_GIFT_CARDS,,,,
+Boss Man Burgers,http://bossmanburger.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Cafe Pizzaiolo,http://www.cafepizzaiolo.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Latin Cafe 2000,http://www.latincafe.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/latin-cafe-2000-brickell-2/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/latin-cafe-2000-brickell-2/v2/online-order#!/
+Lincoln & Main Gastropub,http://lincolnmain.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/lincoln-main-restaurant/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/lincoln-main-restaurant/v2/online-order#!/
+Fifth Frame Brewing,http://www.fifthframe.co,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Troupe429,http://troupe429.com,,,,,,,,
+La Casita Pupuseria & Market,http://lacasitapupusas.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+HUMMUS,https://www.hummusbowls.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/47c47b01-68d6-4856-9921-b46193e60140
+Mamma Susi Bakeshop,https://turano.com/mamma-susi/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fire Wings Davis,https://www.firewings.com/davis-ca-95616,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-davis/v2/online-order#!/
+Cinderlands Warehouse,https://www.cinderlands.com/locations/cinderlands-warehouse,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/cinderlands-beer-co/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/cinderlands-warehouse/v2/online-order#!/
+Saddleback BBQ Retail,http://www.saddlebackbbq.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Clover and the Bee,https://www.thecloverandthebee.com/menu,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/clover-and-the-bee/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/clover-and-the-bee/v2/online-order#!/
+Bridgewater Bank Tavern and Restaurant,https://www.bridgewaterbanktavern.com,,,,,,,,
+Jaipur Royal Indian Cuisine,http://www.jaipurcuisine.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/jaipur-royal-indian-cuisine/v2/online-order
+Two Boots DTLA,http://www.twoboots.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Wiz Kidz,http://www.wizkidzlv.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/wizkidz/v2/online-order#!/
+Lucha Libre Mission Hills,https://www.luchalibretacoshop.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/lucha-libre-gourmet-taco-shop-university-ave/v2/online-order#!/
+Wing It On!,https://www.wingiton.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Shakespeare Pub,http://www.shakespearepub.com,,,,TOAST_GIFT_CARDS,,,,
+RASA,http://www.rasagrill.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/rasa/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/rasa/v2/online-order#!/
+London Heights British Sports Pub,https://www.londonheightsbritishpub.com/,REWARDS_PROGRAM,,,,,,,
+Five Suns Brewing,http://www.fivesunsbrewing.com,,,,,,,,
+The Heritage Restaurant,http://www.morgantownheritage.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Souvlaki Fast Royal Palm,http://souvlakifast.com/locations/royal-palm-beach/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Espanola Cigar Bar & Lounge,http://www.espanolacigarbar.com,,,,,,,,
+The Tavern at Hotel Millersburg,http://www.hotelmillersburg.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Sopraffina Marketcaffe (Lunch Only),https://www.sopraffina.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/sopraffina-marketcaffe-adams/giftcards,https://www.toasttab.com/sopraffina-marketcaffe-adams/findcard,ONLINE_ORDERING,https://www.toasttab.com/locations/d91f9544-2e44-429d-b93a-4516b1c13494#!/
+Local Taco,https://www.localtaco.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Barrio Taqueria + Tequila,http://www.BarrioRVA.com,,,,TOAST_GIFT_CARDS,,,,
+Lucha Libre,http://www.luchalibretacoshop.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/lucha-libre-gourmet-taco-shop-university-ave/v2/online-order#!/
+Spread Wood Fire Eater,http://www.SpreadWoodFireEatery.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+GARDEN BAR,http://www.gardenbarpdx.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+"""Bay Meadows",http://roamburgers.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/roam-artisan-burgers-union/giftcards,,ONLINE_ORDERING,
+Kind Bean,http://thekindbean.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Purple Pub,http://www.purple-pub.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+RiNo Yacht Club,http://rinoyachtclub.com,REWARDS_PROGRAM,,,,,,,
+Percolate,https://www.percolatetea.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Beecher's Handmade Cheese,http://beechershandmadecheese.com/,,,,,,,ONLINE_ORDERING,
+Three Notch'd Brewing Company,http://threenotchdbrewing.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Iron Pig Smokehouse,http://www.theironpigsmokehouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/the-iron-pig-smokehouse/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/the-iron-pig-smokehouse/v2/online-order#!/
+Birch,http://www.restaurantbirch.com,,,,,,,,
+Garden 33,http://www.diGrden33nj.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+BTB Burrito,http://www.btbburrito.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/btbburrito/giftcards,,,
+Somkit,http://www.somkitdixon.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/somkit/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/somkit/v2/online-order#!/
+Orinoco: A Latin Kitchen,http://www.orinocokitchen.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/fb00bfba-6f4f-49d4-98ba-d5ab423aa004#!/
+Folk,http://www.goodasfolk.com,,,,TOAST_GIFT_CARDS,,,,
+Penny Oven/ Holi - Organic Takeout Indian Cusine,http://www.pennyoven.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/penny-oven/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/penny-oven/v2/online-order#!/
+Giovanni's In-N-Out Burger,http://www.gcapurroart.com,REWARDS_PROGRAM,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,ONLINE_ORDERING,FAILED TO GET
+Springbrook Golf and Grill,http://www.springbrook.golf,REWARDS_PROGRAM,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+Crossroads Seafood and Steakhouse,http://www.CrossRoadsPlantCity.Com,,,,,,,,
+Ohana Kitchen,https://www.ohana.kitchen,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+*Hive and Hibernation*,http://www.HiveandHibernation.com,,,,,,,ONLINE_ORDERING,
+Luther's BBQ,https://www.lutherskc.com/,,,,TOAST_GIFT_CARDS,,,,
+Hogwood BBQ,http://www.hogwood.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/hogwood-bbq/v2/online-order#!/
+3 Winds Eatery,https://3windseatery.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Test Restaurant - Edmund Law,"com""",,FAILED TO GET,FAILED TO GET,,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+Il Corallo Trattoria,https://www.ilcorallotrattoria.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Fresh Fit Foods,https://www.freshfitfoods.online/,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Kuma's Corner,http://www.kumascorner.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/kumas-corner-the-original/giftcards,,ONLINE_ORDERING,
+Liv's Shack,http://www.livsshack.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Ghost Pepper,http://www.ghostpepperboston.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/ghost-pepper/v2/online-order#!/
+Buddyz A Chicago Pizzeria,http://www.buddyzpizza.com,,,,TOAST_GIFT_CARDS,,,,
+Angie's Soul Cafe,http://www.angiessoulcafe.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+XXX-The Decantery AMSO TEST,http://www.thedecantery.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+South Point Tavern,http://www.southpointtavern.com,,,,,,,,
+Meat & Potatoes,https://www.meatandpotatoespgh.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/meat-and-potatoes/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/meat-and-potatoes/v2/online-order#!/order
+Blue Bottle Coffee,https://bluebottlecoffee.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Chocolate Pig,https://www.thechocolatepig.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/thechocolatepig/giftcards,,ONLINE_ORDERING,
+Liberty Barbecue,https://www.libertyfallschurch.com/,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/liberty-barbecue/v2/online-order#!/
+Barrel and Pie,http://www.barrelandpie.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/barrelandpie/v2/online-order#!/
+Duffy's Tavern & Grill,http://www.duffysmaine.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Loma Brewing Company,http://www.lomabrew.com,,,,,,,,
+Main Street Pub,http://www.mainstpub.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Lowell Burger Company,http://www.lowellburger.co,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/lowell-burger-company/v2/online-order#!/
+Blue Ash Chili,http://www.blueashchili.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Cork 1794,https://cork1794.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Old School Pizza,http://www.ospcanton.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Skunk and Goat Tavern,https://skunkandgoattavern.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/theskunkandgoattavern/giftcards,,ONLINE_ORDERING,
+Brasserie by Niche,http://brasseriebyniche.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/brasseriebyniche/giftcards,,,
+Big Trouble & Kiss + Ride,http://www.zeppelinstation.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Harpoon Riverbend Taps & Beer Garden,https://www.harpoonbrewery.com/,,,,TOAST_GIFT_CARDS,,,,
+Nitro Galactic Ice Cream Shop,https://www.Nitrogalactic.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,https://www.toasttab.com/nitrogalactic/v2/online-order#!/
+Gather Kitchen - Preston Center,http://www.gatherkitchen.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,https://www.toasttab.com/locations/3605ea54-2cc1-4028-854f-b045b968a53e#!/
+Sonora Restaurant,http://www.sonorarestaurant.net,,,,TOAST_GIFT_CARDS,,,,
+Southern Grounds & Company,http://www.southerngrounds.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/f7487643-e5b8-4522-82d8-a2601edcace1#!/
+A3 Pizza,http://www.A3Pizza.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/a3-pizza/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/a3-pizza/v2/online-order#!/order
+Kyoto Japanese Steakhouse,http://www.kyotoroyaloak.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Water Street Cafe,http://www.waterstreetcafe.com,,,,TOAST_GIFT_CARDS,,,,
+Rhein Haus,http://www.rheinhausdenver.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+115 Bourbon Street,http://www.115bourbonstreet.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/115-bourbon-street/v2/online-order#!/
+Roam Artisan Burgers,http://www.roamburgers.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/roam-artisan-burgers-union/giftcards,,ONLINE_ORDERING,
+Good Bar,https://www.facebook.com/Goodbar-1481368695249255/,,,,,,,,
+Momi Nonmi,http://www.mominonmi.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Peculiar Wine & Beer Shop,http://www.peculiarshopbethlehem.con,,,,TOAST_GIFT_CARDS,,,,
+Magnolia 525 Tavern,http://525magnolia.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+DOSA,http://dosasf.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/dosaonfillmore/v2/online-order#!/
+The Standard Bistro & Larder,https://thestandardbistro.com,,FAILED TO GET,FAILED TO GET,TOAST_GIFT_CARDS,FAILED TO GET,FAILED TO GET,,FAILED TO GET
+Mexican Table,http://www.mexicantablerestaurant.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+White Labs Kitchen & Tap,http://www.whitelabs.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Piencone Pizza,http://www.pienconepizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,"{""imageData"":{""type"":""Image"",""id"":""dataItem-jm8apopr"",""metaData"":{""pageId"":""c1dmp"",""isPreset"":false,""schemaVersion"":""1.0"",""isHidden"":false},""title"":""order.png"",""uri"":""bbbe0a_8464a93d0b354500b00e6af017f204d5~mv2.png"",""description"":"""",""width"":396,""height"":396,""alt"":""Online Ordering"",""link"":{""type"":""ExternalLink"",""id"":""dataItem-jm8axvow"",""metaData"":{""pageId"":""c1dmp"",""isPreset"":false,""schemaVersion"":""1.0"",""isHidden"":false},""url"":""https://www.toasttab.com/piencone/v2/online-order#!/"",""target"":""_blank""},""displayMode"":""fill""},""containerId"":""comp-jm8apooa"",""displayMode"":""fill""}"
+Oishi Solutions,https://www.cityramenroyaloak.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Madcap,http://www.madcapmarin.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/madcap-san-anselmo/giftcards/checkout,,,
+Wing It On!,http://www.wingiton.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Badaro,https://www.eatbadaro.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Pastaria,http://www.pastarianashville.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Harry's Pizzeria and Tavern,http://www.harryspizzawesthartford.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/Harrys-Pizza-West-Hartford/v2/online-order#!/
+Stefano's Golden Baked Hams,http://www.StefanosFoods.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Max's Opera Cafe,https://www.maxsoperasf.com,,,,,,,,
+Vick's Pizzeria,http://www.vicksgourmetpizzeria.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Mason Eatery,http://www.masoneatery.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Camber Coffee,http://www.cambercoffee.com,,,,TOAST_GIFT_CARDS,,,,
+Bistro on Main,http://www.bistro-on-main.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/bistro-on-main-manchester/giftcards,,ONLINE_ORDERING,
+Rush Creek Distilling,http://www.rushcreekdistilling.com/,,,,TOAST_GIFT_CARDS,,,,
+Foundry Craft Grillery,https://www.foundrylebanon.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+The Royal Grocer & Co,https://WWW.ROYALGROCER.COM,,,,,,,,
+Seattle Kosher Catering,http://www.kogoseattle.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Jimbo slims,http://www.jimboslims.com,,,,,,,,
+University of Beer,http://www.theuob.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/university-of-beer-davis/giftcards,,ONLINE_ORDERING,
+Crane Ramen,http://craneramen.com/,,,,TOAST_GIFT_CARDS,,,,
+Sapphire Creek Operating Company,http://www.sapphire-creek.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Sawmill Restaurant,http://www.thesawmillgrill.com,,,,TOAST_GIFT_CARDS,,,,
+Doc's Bourbon Room,https://www.docsbourbonroom.com/,,,,TOAST_GIFT_CARDS,,,,
+Bon Fresco - Baltimore,http://www.bonfresco.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/65e8d360-9df2-4f8d-830d-4d004a420f2b#!/
+Yuzu,http://www.yuzulakewood.com,,,,TOAST_GIFT_CARDS,,,,
+Sa-Bai Thong,http://www.sabaithong.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Rookies 2,http://www.rookiesaz.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/locations/8ad02959-2a27-4c9c-b771-096f5d703bf9#!/
+Teays River Brewing & Public House,http://www.teaysriverbrewing.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Recreation,http://recreationcanyon.com,,,,TOAST_GIFT_CARDS,,,,https://www.toasttab.com/recreation-amarillo/v2/online-order
+Curry Tub,http://www.currytub.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/currytub/v2/online-order#!/
+J. Selby's,http://www.jselbys.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/j-selby-s/giftcards,,ONLINE_ORDERING,
+Truffles Avon - PERMANENTLY CLOSED,http://www.trufflesbakery.com/avon-ct-restaurant-cafe-deli-bakery.html,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+@nerdvana.coffee+shop,http://nerdvanafrisco.com/coffee/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Waterloo Ice House,http://www.waterlooicehouse.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/waterloo-ice-house-burnet/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/locations/d1b0dc34-d241-46e2-b2df-7f7cc371eb8f#!/
+Gambino's Pizza,https://www.gambinospizza.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Paisano's Mexican Grill & Market,http://www.paisanosgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/paisanosgrill/v2/online-order#!/order
+AsiaSF,http://asiasf.com,,,,TOAST_GIFT_CARDS,,,,
+Aro Latin,http://www.arolatin.com,,,,,,,,
+Rick's Cafe Boatyard,https://www.ricksboatyard.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Cantalini's Salerno Beach,http://www.salernobeach.com,,,,TOAST_GIFT_CARDS,,,,
+Hot Krust Panini Kitchen,http://www.hotkrust.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Lawrenceville Bobe's Pizza,http://www.bobespizza.net,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/bobes-pizza-mt-carmel/v2/online-order#!/
+Street City Pub,http://www.streetcity.pub,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/street-city-pub-hyplz/v2/online-order#!/
+Batch & Brine,http://www.batchandbrine.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/batch-brine/giftcards,,ONLINE_ORDERING,
+The Nook B&B,http://www.thenookbandb.com,,,,,,,,
+Banshee,https://www.banshee-atl.com,,,,TOAST_GIFT_CARDS,https://www.toasttab.com/banshee/giftcards,,,
+The Naughty Pig - WH,http://www.thenaughtypig.com,,,,,,,,
+Forno,http://www.fornoomaha.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/forno.omaha/v2/online-order#!/
+AT 580 Market,http://www.At580Market.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/at-580-market/v2/online-order#!/
+Penn's Bar and Grill,http://www.pennsbarandgrill.com,,,,,,,,
+Revolution,https://www.revolutionatlanta.com/,,,,,,,ONLINE_ORDERING,https://www.toasttab.com/revolution-coffee-works-truck/v2/online-order#!/
+"""Wolfs 1-11 Restaurant",http://www.wolfs111.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Rocco's Pizzeria LLC,http://www.LetMeBoxYourPizza.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+The Brew Kettle,http://brewkettleamherst.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Newbury Salads EXPO Market,http://newburysalads.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+dosa by DOSA,http://dosabydosa.com/,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/dosaonfillmore/v2/online-order#!/
+Jamba,http://www.jambajuice.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Great Lakes Brewing Company,http://www.greatlakesbrewing.com,REWARDS_PROGRAM,,,,,,ONLINE_ORDERING,
+Foolish Craig's Cafe,http://www.foolishcraigs.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,https://www.toasttab.com/foolish-craigs-cafe/giftcards,,ONLINE_ORDERING,https://www.toasttab.com/foolish-craigs-cafe/v2/online-order#!/
+Fire Wings Lodi,https://www.firewings.com/lodi-ca-95242,,,,TOAST_GIFT_CARDS,,https://www.toasttab.com/fire-wings/findcard,ONLINE_ORDERING,https://www.toasttab.com/fire-wings-lodi/v2/online-order#!/
+Blue Ash Chili,https://www.blueashchili.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Bates Bar and Grill,https://www.batesbarandgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Best Burger Bar,http://www.bestburgerbar.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Stoney's Bar & Grill,http://www.stoneysbarandgrill.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Ciao Pizzeria Cerino,http://ciaocerino.com/,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,https://www.toasttab.com/ciaopizzeriacerino/v2/online-order#!/
+Sneaki Tiki,http://www.sneakitikistuart.com,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,,
+Wham Bam Bagels,http://www.whambamatx.com,,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+BBQ Chicken Buena Park,http://www.instagram.com/bbqchickenbp,REWARDS_PROGRAM,,,TOAST_GIFT_CARDS,,,ONLINE_ORDERING,
+Doc Crow's Louisville,http://www.doccrows.com,,,,TOAST_GIFT_CARDS,,,,

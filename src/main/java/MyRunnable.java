@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -39,7 +38,7 @@ public class MyRunnable implements Runnable {
             }catch (Exception e){
                 System.out.println("Failed to fetch restaurant +"+ restaurant.getRestaurantName() +" " + restaurant.getRestaurantURL());
                 System.out.println(e.getMessage());
-                Application.failedList.add(restaurant);
+                App1_Crawling.FAILED_LIST.add(restaurant);
                 continue;
             }
             if (restaurant.getToastURLSets().size() == 0) {
@@ -62,7 +61,7 @@ public class MyRunnable implements Runnable {
             Set<String> toastURLSetGetByFindElements = new HashSet<>();
             Set<String> toastURLSetGetByBruteForce = new HashSet<>();
             toastURLSetGetByFindElements = getURLByFindElement();
-            toastURLSetGetByBruteForce = getURLByBruteForce();
+            toastURLSetGetByBruteForce = getURLByBruteForce(restaurant);
 
             if(toastURLSetGetByBruteForce.size() != toastURLSetGetByFindElements.size()){
                 System.out.println("Two lists are not equal");
@@ -75,11 +74,12 @@ public class MyRunnable implements Runnable {
             System.out.println("Execution time in milliseconds: " + timeElapsed);
 
             //Persist
-            Application.persist(restaurant);
+            App1_Crawling.persist(restaurant);
             System.out.println("Unique URLs: "+ toastURLSetGetByFindElements.size());
         }catch (Exception e){
             if (e.getClass().getName().contains("TimeoutException")) {
                 System.out.println("Timeout for " + restaurant.getRestaurantName());
+                App1_Crawling.FAILED_LIST.add(restaurant);
             } else {
                 System.out.println("New exception: " + e.getMessage());
             }
@@ -129,7 +129,7 @@ public class MyRunnable implements Runnable {
         return toastURLs;
     }
 
-    private  Set<String> getURLByBruteForce() throws Exception{
+    private  Set<String> getURLByBruteForce(Restaurant restaurant) throws Exception{
         Set<String> urlSetGetByBruteForce = new HashSet<>();
         List<WebElement> listOfElements = driver.findElements(By.xpath("//*"));
         for(WebElement webElement : listOfElements){
@@ -142,6 +142,7 @@ public class MyRunnable implements Runnable {
                     }
                 }
             }catch (StaleElementReferenceException e){
+                App1_Crawling.FAILED_LIST.add(restaurant);
                 continue;
             }
         }

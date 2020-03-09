@@ -1,10 +1,19 @@
+buildscript {
+    repositories {
+        maven {
+            url uri('../repoAtParent')
+        }
+    }
+    dependencies{
+//        classpath 'org.toast.dublin.MyGitArtifact:1.0'
+    }
+}
 plugins {
     id 'java'
 }
-
+//apply plugin: 'GitPlugin'
 group 'org.toast.dublin'
 version '1.0-SNAPSHOT'
-
 sourceCompatibility = 1.8
 
 repositories {
@@ -19,6 +28,7 @@ dependencies {
     compile group: 'com.h2database', name: 'h2', version: '1.4.197'
     compile group: 'org.mongodb', name: 'mongo-java-driver', version: '3.12.1'
     compile "org.apache.commons:commons-csv:1.5"
-
+    compile gradleApi()
+    compile localGroovy()
 
 }
